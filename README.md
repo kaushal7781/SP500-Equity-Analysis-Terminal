@@ -53,10 +53,10 @@ The "Sweet Spot" (Bottom-Left): Sectors like Financials and Industrials cluster 
 
 🖼️ **Dashboard Preview**
 Power BI Template - https://github.com/kaushal7781/SP500-Equity-Analysis-Terminal/blob/main/S%26P%20500%20Equity%20Analysis%20Terminal.pbit
-Dashboard-Sector Analysis - ![Dashboard Preview].[([https://github.com/kaushal7781/SP500-Equity-Analysis-Terminal/blob/main/1.%20Dashboard%20-%20Sector%20Analysis.png](https://github.com/kaushal7781/SP500-Equity-Analysis-Terminal/blob/main/1.%20Dashboard%20-%20Sector%20Analysis.png)](https://github.com/kaushal7781/SP500-Equity-Analysis-Terminal/blob/main/1.%20Dashboard%20-%20Sector%20Analysis.png)]
-Dashboard-Outliers Example - ![Dashboard Preview].([https://github.com/kaushal7781/SP500-Equity-Analysis-Terminal/blob/main/2.%20Dividend%20Yield%20Outlier%20-%20CTL.png](https://github.com/kaushal7781/SP500-Equity-Analysis-Terminal/blob/main/2.%20Dividend%20Yield%20Outlier%20-%20CTL.png)
-Sector Analysis Focused View - ![Dashboard Preview].([https://github.com/kaushal7781/SP500-Equity-Analysis-Terminal/blob/main/3.%20Sector%20Analysis%20-%20Focused%20View.png](https://github.com/kaushal7781/SP500-Equity-Analysis-Terminal/blob/main/3.%20Sector%20Analysis%20-%20Focused%20View.png)
-Company/Peer Yield-Valuation Analysis - ![Dashboard Preview].([https://github.com/kaushal7781/SP500-Equity-Analysis-Terminal/blob/main/4.%20Company_Peer%20Yield-Valuation%20Analysis.png](https://github.com/kaushal7781/SP500-Equity-Analysis-Terminal/blob/main/4.%20Company_Peer%20Yield-Valuation%20Analysis.png)
+Dashboard-Sector Analysis - ![Dashboard Preview](https://github.com/kaushal7781/SP500-Equity-Analysis-Terminal/blob/main/1.%20Dashboard%20-%20Sector%20Analysis.png)
+Dashboard-Outliers Example - ![Dashboard Preview](https://github.com/kaushal7781/SP500-Equity-Analysis-Terminal/blob/main/2.%20Dividend%20Yield%20Outlier%20-%20CTL.png)
+Sector Analysis Focused View - ![Dashboard Preview](https://github.com/kaushal7781/SP500-Equity-Analysis-Terminal/blob/main/3.%20Sector%20Analysis%20-%20Focused%20View.png)
+Company/Peer Yield-Valuation Analysis - ![Dashboard Preview](https://github.com/kaushal7781/SP500-Equity-Analysis-Terminal/blob/main/4.%20Company_Peer%20Yield-Valuation%20Analysis.png)
 
 ⚠️ **Disclaimer**
 This dashboard is for educational and portfolio purposes only. The analysis provided does not constitute financial advice. All valuations are based on historical data points.
